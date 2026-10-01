@@ -1,0 +1,29 @@
+# Virtual environment
+tfenv/
+venv/
+.env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# TensorFlow / ML
+*.h5
+*.keras
+*.ckpt
+saved_model/
+
+# Dataset
+data/
+dataset/
+PlantVillage/
+
+# OS
+.DS_Store
+Thumbs.db
